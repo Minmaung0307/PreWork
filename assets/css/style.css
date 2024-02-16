@@ -2,6 +2,7 @@
   --primary-color: #fce138;
   --secondary-color: #024e76;
   --tertiary-color: #39a6b2;
+  --college-color: pink;
 }
 
 * {
@@ -270,6 +271,10 @@ section {
 .secondary-border {
   border-color: var(--tertiary-color);
 }
+
+.college-border {
+  border-color: var(--college-color);
+}
 /* SECTION TITLE STYLES END */
 
 /* WHAT WE DO STYLES */
@@ -282,6 +287,18 @@ section {
   text-align: justify;
 }
 
+.college p {
+  line-height: 1.7;
+  color: var(--secondary-color);
+  width: 80%;
+  margin: 0 auto;
+  font-size: 24px;
+  text-align: justify;
+}
+
+.college {
+  background-color: aliceblue;
+}
 /* WHAT YOU DO STYLES END */
 
 
