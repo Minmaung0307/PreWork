@@ -397,6 +397,34 @@ section {
 .trainer-bio p {
   font-size: 17px;
 }
+
+#topic {
+  color: #2c62be;
+  background-color: #fce138;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+#verse {
+  color: rgb(32, 33, 13);
+}
+
+#lesson {
+  color: maroon;
+  border: 2px solid #08b920;
+  border-radius: 15px;
+  padding: 10px 20px;
+}
+
+.section-end {
+  font-size: 28px;
+  border-bottom: 1.7px solid gray;
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
+}
+
 /* TRAINER STYLES END */
 
 /* REACH OUT STYLES START */
