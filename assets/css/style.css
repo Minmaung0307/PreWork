@@ -299,6 +299,39 @@ section {
 .college {
   background-color: aliceblue;
 }
+
+section ul li {
+  line-height: 1.7;
+  color: var(--secondary-color);
+  width: 80%;
+  margin: 0 auto;
+  font-size: 24px;
+  text-align: justify;
+}
+
+section h3 {
+  line-height: 1.7;
+  color: var(--secondary-color);
+  width: 80%;
+  margin: 0 auto;
+  font-size: 30px;
+  text-align: justify;
+}
+
+code {
+  color: red;
+}
+
+details {
+  font-size: 22px;
+  border-bottom: 1px solid;
+  color: var(--secondary-color);
+  padding-bottom: 10px;
+  text-align: left;
+  margin: 20px auto 35px auto;
+  width: 80%;
+}
+
 /* WHAT YOU DO STYLES END */
 
 
